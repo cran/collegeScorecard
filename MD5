@@ -1,11 +1,11 @@
-c4d3d039fa1e19348a178da246a9e3f7 *DESCRIPTION
+1313dd4f2a115ed2265de7d61a2dabe1 *DESCRIPTION
 dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
-51ee44f262e3166dfb7a1efb0b3b3e39 *NEWS.md
+df147df8536493b13074126e9a8a2b0e *NEWS.md
 039fdf51674c54a61538bc37ad8fa76c *R/collegeScorecard-package.R
 2f0bf6a173e6fb8392bb242602198b3d *R/utils.R
-457aeb9be4479c5125f2ab98a9e75caf *README.md
-e99d9b3fc743abebec031e5a4b8221b9 *data/school.rda
-e6d88c3974d492937c2e85333ac55ae2 *data/scorecard.rda
+6026c48bcf3df294c504735db3786599 *README.md
+8fad83943f1631d6dc205d1470fec52a *data/school.rda
+583bd598f8628648362cd93a89e50606 *data/scorecard.rda
 ac5f79229bdc0ccd93f2823c19f77311 *inst/scorecard-data-dictionary.rds
 9e0ea6503e6a47f572497b85e8e3af9d *man/collegeScorecard-package.Rd
 1770b09265ef9c0fd2f46826473f246d *man/school.Rd
